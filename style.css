@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+img{
+    width: 1200px;
+    height: 900px;;
+}
+
+#marqueestyle {
+    background-color: blue;
+    color: white;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0px;
+    z-index: 99999;
+}
+
+#map iframe {
+    width: 100%;
+}
+
+#Details h3 {
+    display: inline;
+}
